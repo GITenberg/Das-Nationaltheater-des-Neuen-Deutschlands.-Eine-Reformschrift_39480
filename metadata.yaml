@@ -1,0 +1,28 @@
+_repo: Das-Nationaltheater-des-Neuen-Deutschlands.-Eine-Reformschrift_39480
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39480-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Devrient, Eduard
+    alias: Devrient, Philipp Eduard
+    birthdate: 1801
+    deathdate: 1877
+    gutenberg_agent_id: '40041'
+    url: http://www.gutenberg.org/2009/agents/40041
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39480'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Theater -- Germany'
+title: Das Nationaltheater des Neuen Deutschlands. Eine Reformschrift
+url: http://www.gutenberg.org/ebooks/39480

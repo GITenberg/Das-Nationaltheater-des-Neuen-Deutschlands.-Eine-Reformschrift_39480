@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40041'
     url: http://www.gutenberg.org/2009/agents/40041
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39480#Das-Nationaltheater-des-Neuen-Deutschlands.-Eine-Reformschrift
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2012-04-19'
 gutenberg_type: Text
